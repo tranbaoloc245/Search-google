@@ -1,0 +1,8 @@
+{
+  "name": "FastSearch - Google Quick Launch & Query Hub",
+  "description": "Ứng dụng tìm kiếm siêu tốc trên Google với ngân hàng câu hỏi định sẵn, bộ lọc dorks nâng cao, mở hàng loạt và xem trước kết quả trực tiếp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
